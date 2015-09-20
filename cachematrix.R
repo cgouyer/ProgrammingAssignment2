@@ -1,6 +1,6 @@
-# The following 2 functions allowed to cache the inverse of a matrix, in order to
-# made some benefit in terms of costly computation (ie in order to no compute the
-# of a matrix repeatedly.
+# The following 2 functions allow to cache the inverse of a matrix, 
+# in order to make some benefit in terms of cost of computation 
+# (ie. in order to no compute the inverse of a matrix repeatedly.
 
 # 1st function : makeCacheMatrix 
 # This function creates a list containing a function to
